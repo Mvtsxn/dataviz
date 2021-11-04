@@ -2,6 +2,9 @@
 
 _Conceptual rules_ help to clearly relay content by using an appropriate
 storyline. They comprise the first part of this guide with the rule sets
+//Концептуальные правила помогают четко передать содержание
+с помощью соответствующей сюжетной линии.
+Они составляют первую часть данного руководства с наборами правил
 [SAY](01-say.md) and [STRUCTURE](02-structure.md).
 
 The conceptual rules are based on the work of authors such as Barbara
