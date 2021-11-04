@@ -1,13 +1,10 @@
-# CONCEPTUAL RULES
+# Концептуальные правила
 
-_Conceptual rules_ help to clearly relay content by using an appropriate
-storyline. They comprise the first part of this guide with the rule sets
-//Концептуальные правила помогают четко передать содержание
+_Концептуальные правила_ помогают четко передать содержание
 с помощью соответствующей сюжетной линии.
 Они составляют первую часть данного руководства с наборами правил
 [SAY](01-say.md) and [STRUCTURE](02-structure.md).
 
-The conceptual rules are based on the work of authors such as Barbara
-[Minto](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516).
-Their wide acceptance stems from their scientific, experimental, and practical
-experience basis.
+Концептуальные правила основаны на работах таких авторов как 
+[Барбара Минто](https://www.amazon.com/Pyramid-Principle-Logic-Writing-Thinking/dp/0273710516).
+Их широкое признание обусловлено их научным, экспериментальным и практическим опытом.
